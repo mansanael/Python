@@ -38,7 +38,25 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.even_numbers">
+  <component name="RunManager" selected="Python.ahmed_finance">
+    <configuration name="ahmed_finance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Program Files\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ahmed_finance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ahmed_finance" />
         <item itemvalue="Python.even_numbers" />
         <item itemvalue="Python.odd_numbers" />
         <item itemvalue="Python.odd_numbers" />
